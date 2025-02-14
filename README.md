@@ -1,2 +1,2 @@
 # classification-project
-first homework of the ANN2DL course
+The first homework for the ANN2DL course focuses on classifying blood cell images into 8 categories using CNNs and advanced techniques such as Transfer Learning and fine-tuning. The best-performing fine-tuned model was EfficientNetV2S, which, combined with data augmentation and a learning rate scheduler, proved to be the most effective approach. Additional experiments and project details can be found in the attached report and notebooks.
